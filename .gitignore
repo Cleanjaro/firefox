@@ -1,0 +1,16 @@
+# Archives to ignore
+*.run
+*.gz
+*.xz
+*.bz2
+*.zip
+*.zst
+
+# Ignore logs
+*.log
+
+# Ignore signatures
+*.asc
+*.sign
+*.sig
+
